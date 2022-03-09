@@ -1,0 +1,402 @@
+{
+    "black_panther_2018": {
+        "name": "Chadwick Boseman",
+        "num_movies": 1
+    },
+    "avengers_endgame": {
+        "name": "Robert Downey Jr.",
+        "num_movies": 1
+    },
+    "mission_impossible_fallout": {
+        "name": "Tom Cruise",
+        "num_movies": 1
+    },
+    "mad_max_fury_road": {
+        "name": "Tom Hardy",
+        "num_movies": 1
+    },
+    "spider_man_into_the_spider_verse": {
+        "name": "Shameik Moore",
+        "num_movies": 1
+    },
+    "wonder_woman_2017": {
+        "name": "Gal Gadot",
+        "num_movies": 1
+    },
+    "logan_2017": {
+        "name": "Hugh Jackman",
+        "num_movies": 1
+    },
+    "coco_2017": {
+        "name": "Anthony Gonzalez",
+        "num_movies": 1
+    },
+    "dunkirk_2017": {
+        "name": "Fionn Whitehead",
+        "num_movies": 1
+    },
+    "star_wars_the_last_jedi": {
+        "name": "Mark Hamill",
+        "num_movies": 1
+    },
+    "thor_ragnarok_2017": {
+        "name": "Chris Hemsworth",
+        "num_movies": 1
+    },
+    "seven_samurai_1956": {
+        "name": "Toshiro Mifune",
+        "num_movies": 1
+    },
+    "star_wars_episode_vii_the_force_awakens": {
+        "name": "Harrison Ford",
+        "num_movies": 1
+    },
+    "1013775-metropolis": {
+        "name": "Brigitte Helm",
+        "num_movies": 1
+    },
+    "soul_2020": {
+        "name": "Jamie Foxx",
+        "num_movies": 1
+    },
+    "1000355-adventures_of_robin_hood": {
+        "name": "Errol Flynn",
+        "num_movies": 1
+    },
+    "spider_man_far_from_home": {
+        "name": "Tom Holland",
+        "num_movies": 1
+    },
+    "incredibles_2": {
+        "name": "Craig T. Nelson",
+        "num_movies": 1
+    },
+    "zootopia": {
+        "name": "Ginnifer Goodwin",
+        "num_movies": 1
+    },
+    "1011615-king_kong": {
+        "name": "Fay Wray",
+        "num_movies": 1
+    },
+    "war_for_the_planet_of_the_apes": {
+        "name": "Andy Serkis",
+        "num_movies": 1
+    },
+    "baby_driver": {
+        "name": "Ansel Elgort",
+        "num_movies": 1
+    },
+    "spider_man_homecoming": {
+        "name": "Tom Holland",
+        "num_movies": 2
+    },
+    "bridge_on_the_river_kwai": {
+        "name": "William Holden",
+        "num_movies": 1
+    },
+    "jaws": {
+        "name": "Roy Scheider",
+        "num_movies": 1
+    },
+    "up": {
+        "name": "Ed Asner",
+        "num_movies": 1
+    },
+    "shazam": {
+        "name": "Zachary Levi",
+        "num_movies": 1
+    },
+    "the_dark_knight": {
+        "name": "Christian Bale",
+        "num_movies": 1
+    },
+    "treasure_of_the_sierra_madre": {
+        "name": "Humphrey Bogart",
+        "num_movies": 1
+    },
+    "lawrence_of_arabia": {
+        "name": "Peter O'Toole",
+        "num_movies": 1
+    },
+    "captain_america_civil_war": {
+        "name": "Chris Evans",
+        "num_movies": 1
+    },
+    "blade_runner_2049": {
+        "name": "Ryan Gosling",
+        "num_movies": 1
+    },
+    "skyfall": {
+        "name": "Daniel Craig",
+        "num_movies": 1
+    },
+    "1000121-39_steps": {
+        "name": "Robert Donat",
+        "num_movies": 1
+    },
+    "the_jungle_book_2016": {
+        "name": "Neel Sethi",
+        "num_movies": 1
+    },
+    "harry_potter_and_the_deathly_hallows_part_2": {
+        "name": "Daniel Radcliffe",
+        "num_movies": 1
+    },
+    "mission_impossible_rogue_nation": {
+        "name": "Tom Cruise",
+        "num_movies": 2
+    },
+    "the_hurt_locker": {
+        "name": "Jeremy Renner",
+        "num_movies": 1
+    },
+    "apocalypse_now": {
+        "name": "Marlon Brando",
+        "num_movies": 1
+    },
+    "avengers_infinity_war": {
+        "name": "Robert Downey Jr.",
+        "num_movies": 2
+    },
+    "star_trek_11": {
+        "name": "Chris Pine",
+        "num_movies": 1
+    },
+    "the_lego_movie": {
+        "name": "Chris Pratt",
+        "num_movies": 1
+    },
+    "ant_man_and_the_wasp": {
+        "name": "Paul Rudd",
+        "num_movies": 1
+    },
+    "moana_2016": {
+        "name": "Dwayne Johnson",
+        "num_movies": 1
+    },
+    "isle_of_dogs_2018": {
+        "name": "Bryan Cranston",
+        "num_movies": 1
+    },
+    "guardians_of_the_galaxy": {
+        "name": "Chris Pratt",
+        "num_movies": 2
+    },
+    "kubo_and_the_two_strings_2016": {
+        "name": "Charlize Theron",
+        "num_movies": 1
+    },
+    "wolfwalkers": {
+        "name": "Sean Bean",
+        "num_movies": 1
+    },
+    "goldfinger": {
+        "name": "Sean Connery",
+        "num_movies": 1
+    },
+    "star_wars_a_new_hope": {
+        "name": "Mark Hamill",
+        "num_movies": 2
+    },
+    "1019774-stagecoach": {
+        "name": "John Wayne",
+        "num_movies": 1
+    },
+    "marvels_the_avengers": {
+        "name": "Robert Downey Jr.",
+        "num_movies": 3
+    },
+    "wall_e": {
+        "name": "Ben Burtt",
+        "num_movies": 1
+    },
+    "paths_of_glory": {
+        "name": "Kirk Douglas",
+        "num_movies": 1
+    },
+    "french_connection": {
+        "name": "Gene Hackman",
+        "num_movies": 1
+    },
+    "iron_man": {
+        "name": "Robert Downey Jr.",
+        "num_movies": 4
+    },
+    "terminator": {
+        "name": "Arnold Schwarzenegger",
+        "num_movies": 1
+    },
+    "hunt_for_the_wilderpeople": {
+        "name": "Sam Neill",
+        "num_movies": 1
+    },
+    "doctor_strange_2016": {
+        "name": "Benedict Cumberbatch",
+        "num_movies": 1
+    },
+    "raya_and_the_last_dragon": {
+        "name": "Kelly Marie Tran",
+        "num_movies": 1
+    },
+    "princess_bride": {
+        "name": "Cary Elwes",
+        "num_movies": 1
+    },
+    "the_taking_of_pelham_one_two_three": {
+        "name": "Walter Matthau",
+        "num_movies": 1
+    },
+    "john_wick_chapter_3_parabellum": {
+        "name": "Keanu Reeves",
+        "num_movies": 1
+    },
+    "the_peanut_butter_falcon": {
+        "name": "Shia LaBeouf",
+        "num_movies": 1
+    },
+    "1000617-aliens": {
+        "name": "Sigourney Weaver",
+        "num_movies": 1
+    },
+    "star_wars_the_empire_strikes_back": {
+        "name": "Mark Hamill",
+        "num_movies": 3
+    },
+    "x_men_days_of_future_past": {
+        "name": "Hugh Jackman",
+        "num_movies": 2
+    },
+    "true_grit_2010": {
+        "name": "Jeff Bridges",
+        "num_movies": 1
+    },
+    "the_suicide_squad": {
+        "name": "Margot Robbie",
+        "num_movies": 1
+    },
+    "all_is_lost_2013": {
+        "name": "Robert Redford",
+        "num_movies": 1
+    },
+    "looper": {
+        "name": "Bruce Willis",
+        "num_movies": 1
+    },
+    "casino_royale": {
+        "name": "Daniel Craig",
+        "num_movies": 2
+    },
+    "the_lego_batman_movie": {
+        "name": "Will Arnett",
+        "num_movies": 1
+    },
+    "guardians_of_the_galaxy_vol_2": {
+        "name": "Chris Pratt",
+        "num_movies": 3
+    },
+    "badlands": {
+        "name": "Martin Sheen",
+        "num_movies": 1
+    },
+    "chicken_run": {
+        "name": "Mel Gibson",
+        "num_movies": 1
+    },
+    "1043378-stalker": {
+        "name": "Aleksandr Kajdanovsky",
+        "num_movies": 1
+    },
+    "no_country_for_old_men": {
+        "name": "Tommy Lee Jones",
+        "num_movies": 1
+    },
+    "dawn_of_the_planet_of_the_apes": {
+        "name": "Andy Serkis",
+        "num_movies": 2
+    },
+    "captain_marvel": {
+        "name": "Brie Larson",
+        "num_movies": 1
+    },
+    "sicario_2015": {
+        "name": "Emily Blunt",
+        "num_movies": 1
+    },
+    "onward": {
+        "name": "Tom Holland",
+        "num_movies": 3
+    },
+    "the_african_queen_1951": {
+        "name": "Humphrey Bogart",
+        "num_movies": 2
+    },
+    "from_russia_with_love": {
+        "name": "Sean Connery",
+        "num_movies": 2
+    },
+    "ran": {
+        "name": "Tatsuya Nakadai",
+        "num_movies": 1
+    },
+    "jurassic_park": {
+        "name": "Sam Neill",
+        "num_movies": 2
+    },
+    "fistful_of_dollars": {
+        "name": "Clint Eastwood",
+        "num_movies": 1
+    },
+    "1029042-henry_v": {
+        "name": "Kenneth Branagh",
+        "num_movies": 1
+    },
+    "captain_america_the_winter_soldier_2014": {
+        "name": "Chris Evans",
+        "num_movies": 2
+    },
+    "the_lord_of_the_rings_the_two_towers": {
+        "name": "Elijah Wood",
+        "num_movies": 1
+    },
+    "ghostbusters": {
+        "name": "Bill Murray",
+        "num_movies": 1
+    },
+    "rio_bravo": {
+        "name": "John Wayne",
+        "num_movies": 2
+    },
+    "seventh_seal": {
+        "name": "Max von Sydow",
+        "num_movies": 1
+    },
+    "the_lion_king": {
+        "name": "Matthew Broderick",
+        "num_movies": 1
+    },
+    "deadpool_2": {
+        "name": "Ryan Reynolds",
+        "num_movies": 1
+    },
+    "back_to_the_future": {
+        "name": "Michael J. Fox",
+        "num_movies": 1
+    },
+    "1046129-fugitive": {
+        "name": "Harrison Ford",
+        "num_movies": 2
+    },
+    "crouching_tiger_hidden_dragon": {
+        "name": "Chow Yun-Fat",
+        "num_movies": 1
+    },
+    "searchers": {
+        "name": "John Wayne",
+        "num_movies": 3
+    },
+    "bullitt": {
+        "name": "Steve McQueen",
+        "num_movies": 1
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "movie name": "Black Panther",
+    "Rating": "PG-13(SequencesofActionViolence|ABriefRudeGesture)",
+    "Genre": "Action,Adventure,Fantasy",
+    "Original Language": "English",
+    "Director": "RyanCoogler",
+    "Producer": "KevinFeige",
+    "Writer": "RyanCoogler,JoeRobertCole",
+    "Release Date (Theaters)": "Feb16,2018\u00a0wide",
+    "Release Date (Streaming)": "May2,2018",
+    "Box Office (Gross USA)": "$700.2M",
+    "Runtime": "2h14m",
+    "Distributor": "WaltDisney",
+    "Sound Mix": "DTS,DolbyAtmos",
+    "Aspect Ratio": "Scope(2.35:1)",
+    "View the collection": "MarvelCinematicUniverse",
+    "cast": [
+        {
+            "name": "Chadwick Boseman",
+            "link": " /celebrity/chadwick_boseman "
+        },
+        {
+            "name": "Michael B. Jordan",
+            "link": " /celebrity/michael_b_jordan "
+        },
+        {
+            "name": "Lupita Nyong'o",
+            "link": " /celebrity/lupita_nyongo "
+        },
+        {
+            "name": "Danai Gurira",
+            "link": " /celebrity/danai-gurira "
+        },
+        {
+            "name": "Martin Freeman",
+            "link": " /celebrity/martin_freeman "
+        },
+        {
+            "name": "Daniel Kaluuya",
+            "link": " /celebrity/daniel_kaluuya "
+        }
+    ]
+}

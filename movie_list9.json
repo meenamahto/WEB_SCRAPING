@@ -1,0 +1,1963 @@
+[
+    {
+        "movie name": "Black Panther",
+        "Rating": "PG-13(SequencesofActionViolence|ABriefRudeGesture)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "RyanCoogler",
+        "Producer": "KevinFeige",
+        "Writer": "RyanCoogler,JoeRobertCole",
+        "Release Date (Theaters)": "Feb16,2018\u00a0wide",
+        "Release Date (Streaming)": "May2,2018",
+        "Box Office (Gross USA)": "$700.2M",
+        "Runtime": "2h14m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DTS,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Avengers: Endgame",
+        "Rating": "PG-13(SequencesofSci-FiViolence|Action|SomeLanguage)",
+        "Genre": [
+            "Adventure",
+            "Sci-fi",
+            "Action",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "AnthonyRusso,JoeRusso",
+        "Producer": "KevinFeige",
+        "Writer": "ChristopherMarkus,StephenMcFeely",
+        "Release Date (Theaters)": "Apr26,2019\u00a0wide",
+        "Release Date (Streaming)": "Jul30,2019",
+        "Box Office (Gross USA)": "$858.4M",
+        "Runtime": "3h1m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos,DTS,DolbyDigital,SDDS",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Mission: Impossible -- Fallout",
+        "Rating": "PG-13(IntenseSequencesofAction|BriefStrongLanguage|Violence)",
+        "Genre": [
+            "Mystery&thriller",
+            "Action",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "ChristopherMcQuarrie",
+        "Producer": "TomCruise,ChristopherMcQuarrie,JakeMyers,J.J.Abrams",
+        "Writer": "ChristopherMcQuarrie",
+        "Release Date (Theaters)": "Jul27,2018\u00a0wide",
+        "Release Date (Streaming)": "Oct23,2018",
+        "Box Office (Gross USA)": "$220.1M",
+        "Runtime": "2h27m",
+        "Distributor": "ParamountPictures",
+        "Sound Mix": "DTS,DolbyAtmos,DolbyDigital",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Mad Max: Fury Road",
+        "Rating": "R(IntenseSequencesofViolence|DisturbingImages)",
+        "Genre": [
+            "Action",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "GeorgeMiller",
+        "Producer": "DougMitchell,GeorgeMiller,P.J.Voeten",
+        "Writer": "GeorgeMiller,BrendanMcCarthy,NickLathouris",
+        "Release Date (Theaters)": "May15,2015\u00a0wide",
+        "Release Date (Streaming)": "Sep1,2015",
+        "Box Office (Gross USA)": "$153.6M",
+        "Runtime": "2h0m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "DolbyAtmos,DolbyDigital,SDDS,Datasat",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Spider-Man: Into the Spider-Verse",
+        "Rating": "PG(MildLanguage|FreneticActionViolence|ThematicElements)",
+        "Genre": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "BobPersichetti,PeterRamsey,RodneyRothman",
+        "Producer": "AviArad,AmyPascal,PhilLord,ChrisMiller,ChristinaSteinberg",
+        "Writer": "PhilLord,RodneyRothman",
+        "Release Date (Theaters)": "Dec14,2018\u00a0wide",
+        "Release Date (Streaming)": "Mar19,2019",
+        "Box Office (Gross USA)": "$190.2M",
+        "Runtime": "1h57m",
+        "Distributor": "SonyPicturesEntertainment,ColumbiaPictures",
+        "Sound Mix": "DolbyAtmos,DTS,DolbyDigital,SDDS",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Wonder Woman",
+        "Rating": "PG-13(SequencesofViolence|Action|SomeSuggestiveContent)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "PattyJenkins",
+        "Producer": "CharlesRoven,DeborahSnyder,ZackSnyder,RichardSuckle",
+        "Writer": "AllanHeinberg",
+        "Release Date (Theaters)": "Jun2,2017\u00a0wide",
+        "Release Date (Streaming)": "Sep26,2017",
+        "Box Office (Gross USA)": "$412.8M",
+        "Runtime": "2h21m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "SDDS,DolbyAtmos,DTS",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "DCExtendedUniverse"
+    },
+    {
+        "movie name": "Logan",
+        "Rating": "R(LanguageThroughout|BriefNudity|StrongBrutalViolence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "JamesMangold",
+        "Producer": "HutchParker,SimonKinberg,LaurenShulerDonner",
+        "Writer": "JamesMangold,MichaelGreen,ScottFrank",
+        "Release Date (Theaters)": "Mar3,2017\u00a0wide",
+        "Release Date (Streaming)": "Jun20,2017",
+        "Box Office (Gross USA)": "$226.3M",
+        "Runtime": "2h17m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "X-Men"
+    },
+    {
+        "movie name": "Coco",
+        "Rating": "PG(ThematicElements)",
+        "Genre": [
+            "Music",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "LeeUnkrich",
+        "Producer": "DarlaK.Anderson",
+        "Writer": "AdrianMolina,MatthewAldrich",
+        "Release Date (Theaters)": "Nov22,2017\u00a0wide",
+        "Release Date (Streaming)": "Feb13,2018",
+        "Box Office (Gross USA)": "$210.5M",
+        "Runtime": "1h49m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "Pixar"
+    },
+    {
+        "movie name": "Dunkirk",
+        "Rating": "PG-13(SomeLanguage|IntenseWarExperience)",
+        "Genre": [
+            "History",
+            "War",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "ChristopherNolan",
+        "Producer": "EmmaThomas,ChristopherNolan",
+        "Writer": "ChristopherNolan",
+        "Release Date (Theaters)": "Jul21,2017\u00a0wide",
+        "Release Date (Streaming)": "Dec12,2017",
+        "Box Office (Gross USA)": "$188.0M",
+        "Runtime": "1h47m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "DolbyDigital,Datasat,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Star Wars: The Last Jedi",
+        "Rating": "PG-13(Violence|SequencesofSci-FiAction)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "RianJohnson",
+        "Producer": "KathleenKennedy,RamBergman",
+        "Writer": "RianJohnson",
+        "Release Date (Theaters)": "Dec15,2017\u00a0wide",
+        "Release Date (Streaming)": "Mar27,2018",
+        "Box Office (Gross USA)": "$620.2M",
+        "Runtime": "2h32m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DTS,DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "StarWarsSaga"
+    },
+    {
+        "movie name": "Thor: Ragnarok",
+        "Rating": "PG-13(BriefSuggestiveMaterial|Action|IntenseSci-FiViolence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-fi"
+        ],
+        "Original Language": "English",
+        "Director": "TaikaWaititi",
+        "Producer": "KevinFeige",
+        "Writer": "EricPearson,CraigKyle,ChristopherYost",
+        "Release Date (Theaters)": "Nov3,2017\u00a0wide",
+        "Release Date (Streaming)": "Mar6,2018",
+        "Box Office (Gross USA)": "$315.0M",
+        "Runtime": "2h10m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Seven Samurai",
+        "Genre": [
+            "Action"
+        ],
+        "Original Language": "Japanese",
+        "Director": "AkiraKurosawa",
+        "Producer": "SojiroMotoki",
+        "Writer": "ShinobuHashimoto,AkiraKurosawa,HideoOguni",
+        "Release Date (Theaters)": "Nov19,1956\u00a0wide",
+        "Release Date (Streaming)": "Sep5,2006",
+        "Box Office (Gross USA)": "$271.7K",
+        "Runtime": "3h28m",
+        "Distributor": "ColumbiaPictures",
+        "Sound Mix": "Mono",
+        "Aspect Ratio": "Flat(1.37:1)"
+    },
+    {
+        "movie name": "Star Wars: The Force Awakens",
+        "Rating": "PG-13(Sci-FiActionViolence)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "J.J.Abrams",
+        "Producer": "KathleenKennedy,J.J.Abrams,BryanBurk",
+        "Writer": "LawrenceKasdan,J.J.Abrams,MichaelArndt",
+        "Release Date (Theaters)": "Dec18,2015\u00a0wide",
+        "Release Date (Streaming)": "Apr5,2016",
+        "Box Office (Gross USA)": "$123",
+        "Runtime": "2h16m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "StarWarsSaga"
+    },
+    {
+        "movie name": "Metropolis",
+        "Genre": [
+            "Sci-fi",
+            "Drama"
+        ],
+        "Original Language": "German",
+        "Director": "FritzLang",
+        "Producer": "ErichPommer",
+        "Writer": "FritzLang,TheavonHarbou,TheavonHarbou",
+        "Release Date (Theaters)": "Mar13,1927\u00a0original",
+        "Release Date (Streaming)": "Mar22,2007",
+        "Box Office (Gross USA)": "$1.2M",
+        "Runtime": "2h3m",
+        "Distributor": "ParamountPictures",
+        "Sound Mix": "DolbySR,DolbyDigital,DolbyA,DolbyStereo",
+        "Aspect Ratio": "Flat(1.85:1)"
+    },
+    {
+        "movie name": "Soul",
+        "Rating": "PG(ThematicElements|SomeLanguage)",
+        "Genre": [
+            "Kids&family",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "PeteDocter",
+        "Producer": "DanaLeighMurray",
+        "Writer": "PeteDocter,MikeJones,KempPowers",
+        "Release Date (Streaming)": "Dec25,2020",
+        "Runtime": "1h40m",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "Pixar"
+    },
+    {
+        "movie name": "The Adventures of Robin Hood",
+        "Rating": "PG",
+        "Genre": [
+            "Action",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "MichaelCurtiz,WilliamKeighley",
+        "Producer": "HalB.Wallis",
+        "Writer": "NormanReillyRaine,SetonI.Miller",
+        "Release Date (Theaters)": "Feb11,1938\u00a0wide",
+        "Release Date (Streaming)": "Sep30,2003",
+        "Runtime": "1h42m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "Mono",
+        "Aspect Ratio": "Flat(1.37:1)"
+    },
+    {
+        "movie name": "Spider-Man: Far From Home",
+        "Rating": "PG-13(Sci-FiActionViolence|BriefSuggestiveComments|SomeLanguage)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "JonWatts",
+        "Producer": "KevinFeige,AmyPascal",
+        "Writer": "ChrisMcKenna,ErikSommers",
+        "Release Date (Theaters)": "Jul2,2019\u00a0wide",
+        "Release Date (Streaming)": "Aug27,2019",
+        "Box Office (Gross USA)": "$390.7M",
+        "Runtime": "2h9m",
+        "Distributor": "SonyPicturesEntertainment,ColumbiaPictures",
+        "Sound Mix": "DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Incredibles 2",
+        "Rating": "PG(SomeBriefMildLanguage|ActionSequences)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Kids&family",
+            "Comedy",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "BradBird",
+        "Producer": "JohnWalker,NicoleParadisGrindle",
+        "Writer": "BradBird",
+        "Release Date (Theaters)": "Jun15,2018\u00a0wide",
+        "Release Date (Streaming)": "Nov6,2018",
+        "Box Office (Gross USA)": "$608.6M",
+        "Runtime": "1h58m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DTS,DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "Pixar"
+    },
+    {
+        "movie name": "Zootopia",
+        "Rating": "PG(RudeHumor|Action|SomeThematicElements)",
+        "Genre": [
+            "Kids&family",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "ByronHoward,RichMoore",
+        "Producer": "ClarkSpencer",
+        "Writer": "JaredBush,PhilJohnston",
+        "Release Date (Theaters)": "Mar4,2016\u00a0wide",
+        "Release Date (Streaming)": "Jun7,2016",
+        "Runtime": "1h48m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos"
+    },
+    {
+        "movie name": "King Kong",
+        "Genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "MerianC.Cooper,ErnestB.Schoedsack",
+        "Producer": "MerianC.Cooper,ErnestB.Schoedsack",
+        "Writer": "JamesAshmoreCreelman,RuthRose",
+        "Release Date (Theaters)": "Mar2,1933\u00a0original",
+        "Release Date (Streaming)": "Nov22,2005",
+        "Runtime": "1h40m",
+        "Distributor": "RKORadioPictures"
+    },
+    {
+        "movie name": "War for the Planet of the Apes",
+        "Rating": "PG-13(SequencesofSci-FiViolence|Action|SomeDisturbingImages|ThematicElements)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "MattReeves",
+        "Producer": "PeterChernin,DylanClark,RickJaffa,AmandaSilver",
+        "Writer": "MattReeves,MarkBomback",
+        "Release Date (Theaters)": "Jul14,2017\u00a0wide",
+        "Release Date (Streaming)": "Oct24,2017",
+        "Box Office (Gross USA)": "$146.8M",
+        "Runtime": "2h22m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "PlanetoftheApes"
+    },
+    {
+        "movie name": "Baby Driver",
+        "Rating": "R(Violence|LanguageThroughout)",
+        "Genre": [
+            "Mystery&thriller",
+            "Action"
+        ],
+        "Original Language": "English",
+        "Director": "EdgarWright",
+        "Producer": "NiraPark,TimBevan,EricFellner",
+        "Writer": "EdgarWright",
+        "Release Date (Theaters)": "Jun28,2017\u00a0wide",
+        "Release Date (Streaming)": "Sep26,2017",
+        "Box Office (Gross USA)": "$107.8M",
+        "Runtime": "1h53m",
+        "Distributor": "SonyPicturesEntertainment",
+        "Sound Mix": "DolbyAtmos,DolbyDigital",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Spider-Man: Homecoming",
+        "Rating": "PG-13(Sci-FiActionViolence|BriefSuggestiveComments|SomeLanguage)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "JonWatts",
+        "Producer": "AmyPascal,KevinFeige",
+        "Writer": "JonathanM.Goldstein,JohnFrancisDaley,JonWatts,ChristopherFord,ChrisMcKenna,ErikSommers",
+        "Release Date (Theaters)": "Jul7,2017\u00a0wide",
+        "Release Date (Streaming)": "Oct17,2017",
+        "Box Office (Gross USA)": "$334.4M",
+        "Runtime": "2h13m",
+        "Distributor": "SonyPicturesEntertainment",
+        "Sound Mix": "DTS,SDDS,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "The Bridge on the River Kwai",
+        "Rating": "PG",
+        "Genre": [
+            "War",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "DavidLean",
+        "Producer": "SamSpiegel",
+        "Writer": "PierreBoulle,MichaelWilson,CarlForeman",
+        "Release Date (Theaters)": "Dec18,1957\u00a0wide",
+        "Release Date (Streaming)": "Nov21,2000",
+        "Runtime": "2h41m",
+        "Distributor": "ColumbiaPictures",
+        "Sound Mix": "Surround,Mono,MagneticStereo6Track,Stereo",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Jaws",
+        "Rating": "PG",
+        "Genre": [
+            "Horror",
+            "Mystery&thriller",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "StevenSpielberg",
+        "Producer": "DavidBrown,RichardD.Zanuck",
+        "Writer": "PeterBenchley,PeterBenchley,CarlGottlieb,HowardSackler,JohnMilius,RobertShaw",
+        "Release Date (Theaters)": "Jun20,1975\u00a0wide",
+        "Release Date (Streaming)": "Jun14,2005",
+        "Box Office (Gross USA)": "$260.9M",
+        "Runtime": "2h4m",
+        "Distributor": "DiscoVision,UniversalPictures",
+        "Sound Mix": "Mono,CDS"
+    },
+    {
+        "movie name": "Up",
+        "Rating": "PG(SomePeril|Action)",
+        "Genre": [
+            "Kids&family",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "PeteDocter,BobPeterson",
+        "Producer": "JonasRivera",
+        "Writer": "BobPeterson,PeteDocter",
+        "Release Date (Theaters)": "May29,2009\u00a0wide",
+        "Release Date (Streaming)": "Nov10,2009",
+        "Runtime": "1h29m",
+        "Distributor": "WaltDisney,PixarAnimationStudios",
+        "View the collection": "Pixar"
+    },
+    {
+        "movie name": "Shazam!",
+        "Rating": "PG-13(Language|IntenseSequencesofAction|SuggestiveMaterial)",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "DavidF.Sandberg",
+        "Producer": "PeterSafran",
+        "Writer": "HenryGayden",
+        "Release Date (Theaters)": "Apr5,2019\u00a0wide",
+        "Release Date (Streaming)": "Jul2,2019",
+        "Box Office (Gross USA)": "$140.4M",
+        "Runtime": "2h12m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "DCExtendedUniverse"
+    },
+    {
+        "movie name": "The Dark Knight",
+        "Rating": "PG-13(SomeMenace|IntenseSequencesofViolence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "ChristopherNolan",
+        "Producer": "EmmaThomas,CharlesRoven,ChristopherNolan",
+        "Writer": "JonathanNolan,ChristopherNolan",
+        "Release Date (Theaters)": "Jul18,2008\u00a0wide",
+        "Release Date (Streaming)": "Dec9,2008",
+        "Box Office (Gross USA)": "$2.0M",
+        "Runtime": "2h32m",
+        "Distributor": "WarnerBros.",
+        "Sound Mix": "DTS,DolbyDigital,SDDS",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "Batman"
+    },
+    {
+        "movie name": "The Treasure of the Sierra Madre",
+        "Genre": [
+            "Western",
+            "Adventure",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "JohnHuston",
+        "Producer": "HenryBlanke",
+        "Writer": "B.Traven,JohnHuston",
+        "Release Date (Theaters)": "Jan6,1948\u00a0original",
+        "Release Date (Streaming)": "Sep30,2003",
+        "Runtime": "2h4m",
+        "Distributor": "WarnerBros.Pictures,MGM/UAHomeEntertainmentInc."
+    },
+    {
+        "movie name": "Lawrence of Arabia",
+        "Rating": "PG",
+        "Genre": [
+            "Biography",
+            "Adventure",
+            "History",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "DavidLean",
+        "Producer": "RobertA.Harris,SamSpiegel",
+        "Writer": "RobertBolt,MichaelWilson",
+        "Release Date (Theaters)": "Dec16,1962\u00a0original",
+        "Release Date (Streaming)": "Apr3,2001",
+        "Box Office (Gross USA)": "$6.0M",
+        "Runtime": "3h36m",
+        "Distributor": "ColumbiaTristar,RCAHomeVideo,CriterionCollection,ColumbiaTriStarHomeVideo",
+        "Sound Mix": "Surround"
+    },
+    {
+        "movie name": "Captain America: Civil War",
+        "Rating": "PG-13(ExtendedSequencesofViolence|ActionandMayhem)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "AnthonyRusso,JoeRusso",
+        "Producer": "KevinFeige",
+        "Writer": "ChristopherMarkus,StephenMcFeely",
+        "Release Date (Theaters)": "May6,2016\u00a0wide",
+        "Release Date (Streaming)": "Sep13,2016",
+        "Box Office (Gross USA)": "$408.1M",
+        "Runtime": "2h26m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos,DolbyDigital",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Blade Runner 2049",
+        "Rating": "R(Nudity|Language|SomeSexuality|Violence)",
+        "Genre": [
+            "Sci-fi",
+            "Mystery&thriller"
+        ],
+        "Original Language": "English",
+        "Director": "DenisVilleneuve",
+        "Producer": "AndrewA.Kosove,BroderickJohnson,BudYorkin,CynthiaSikesYorkin",
+        "Writer": "HamptonFancher,MichaelGreen",
+        "Release Date (Theaters)": "Oct6,2017\u00a0wide",
+        "Release Date (Streaming)": "Jan16,2018",
+        "Box Office (Gross USA)": "$91.5M",
+        "Runtime": "2h44m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "BladeRunner"
+    },
+    {
+        "movie name": "Skyfall",
+        "Rating": "PG-13(Language|IntenseViolentSequences|Smoking|SomeSexuality)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Mystery&thriller"
+        ],
+        "Original Language": "English",
+        "Director": "SamMendes",
+        "Producer": "MichaelG.Wilson,BarbaraBroccoli",
+        "Writer": "NealPurvis,RobertWade,JohnLogan",
+        "Release Date (Theaters)": "Nov9,2012\u00a0wide",
+        "Release Date (Streaming)": "Feb12,2013",
+        "Box Office (Gross USA)": "$304.4M",
+        "Runtime": "2h23m",
+        "Distributor": "SonyPicturesEntertainment",
+        "Sound Mix": "SDDS,DolbyDigital,Datasat",
+        "View the collection": "JamesBond007"
+    },
+    {
+        "movie name": "The 39 Steps",
+        "Genre": [
+            "Mystery&thriller"
+        ],
+        "Original Language": "English(UnitedKingdom)",
+        "Director": "AlfredHitchcock",
+        "Producer": "MichaelBalcon,IvorMontagu",
+        "Writer": "JohnBuchan,CharlesBennett,IanHay",
+        "Release Date (Theaters)": "Jun18,1935\u00a0original",
+        "Release Date (Streaming)": "Nov2,1999",
+        "Runtime": "1h20m",
+        "Distributor": "LSVideo,GaumontBritishDistributors,GrapevineVideo",
+        "Sound Mix": "Mono"
+    },
+    {
+        "movie name": "The Jungle Book",
+        "Rating": "PG(SomeSequencesofScaryAction|Peril)",
+        "Genre": [
+            "Kids&family",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "JonFavreau",
+        "Producer": "JonFavreau,BrighamTaylor",
+        "Writer": "JustinMarks",
+        "Release Date (Theaters)": "Apr15,2016\u00a0wide",
+        "Release Date (Streaming)": "Aug30,2016",
+        "Box Office (Gross USA)": "$364.0M",
+        "Runtime": "1h45m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Flat(1.85:1)"
+    },
+    {
+        "movie name": "Harry Potter and the Deathly Hallows: Part 2",
+        "Rating": "PG-13(SeqofIntenseActionViolence|FrighteningImages)",
+        "Genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "DavidYates",
+        "Producer": "DavidHeyman,DavidBarron,J.K.Rowling",
+        "Writer": "SteveKloves",
+        "Release Date (Theaters)": "Jul15,2011\u00a0wide",
+        "Release Date (Streaming)": "Nov11,2011",
+        "Box Office (Gross USA)": "$381.0M",
+        "Runtime": "2h11m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "SDDS,DolbyDigital",
+        "View the collection": "HarryPotter"
+    },
+    {
+        "movie name": "Mission: Impossible Rogue Nation",
+        "Rating": "PG-13(SequencesofAction&Violence|BriefPartialNudity)",
+        "Genre": [
+            "Mystery&thriller",
+            "Action",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "ChristopherMcQuarrie",
+        "Producer": "TomCruise,J.J.Abrams,BryanBurk,DavidEllison,DanaGoldberg,DonGranger",
+        "Writer": "ChristopherMcQuarrie",
+        "Release Date (Theaters)": "Jul31,2015\u00a0wide",
+        "Release Date (Streaming)": "Dec15,2015",
+        "Runtime": "2h11m",
+        "Distributor": "ParamountPictures",
+        "Sound Mix": "DolbyAtmos"
+    },
+    {
+        "movie name": "The Hurt Locker",
+        "Rating": "R(WarViolence|Language)",
+        "Genre": [
+            "Mystery&thriller",
+            "Action",
+            "War",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "KathrynBigelow",
+        "Producer": "KathrynBigelow,MarkBoal,NicolasChartier",
+        "Writer": "MarkBoal",
+        "Release Date (Theaters)": "Jul31,2009\u00a0original",
+        "Release Date (Streaming)": "Jan12,2010",
+        "Box Office (Gross USA)": "$15.7M",
+        "Runtime": "2h7m",
+        "Distributor": "SummitMedia"
+    },
+    {
+        "movie name": "Apocalypse Now",
+        "Rating": "R",
+        "Genre": [
+            "War",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "FrancisFordCoppola",
+        "Producer": "KimAubry,FrancisFordCoppola",
+        "Writer": "JosephConrad,JohnMilius,FrancisFordCoppola,MichaelHerr",
+        "Release Date (Theaters)": "Aug15,1979\u00a0original",
+        "Release Date (Streaming)": "May18,2010",
+        "Box Office (Gross USA)": "$78.8M",
+        "Runtime": "2h33m",
+        "Distributor": "ParamountPictures,UnitedArtists,MiramaxFilms",
+        "Sound Mix": "Surround"
+    },
+    {
+        "movie name": "Avengers: Infinity War",
+        "Rating": "PG-13(IntenseSci-FiViolence|ActionThroughout|Language|SomeCrudeReferences)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "AnthonyRusso,JoeRusso",
+        "Producer": "KevinFeige",
+        "Writer": "ChristopherMarkus,StephenMcFeely",
+        "Release Date (Theaters)": "Apr27,2018\u00a0wide",
+        "Release Date (Streaming)": "Aug14,2018",
+        "Box Office (Gross USA)": "$678.8M",
+        "Runtime": "2h29m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DTS,DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Star Trek",
+        "Rating": "PG-13(Sci-FiAction|BriefSexualContent|Violence)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "J.J.Abrams",
+        "Producer": "J.J.Abrams,DamonLindelof",
+        "Writer": "RobertoOrci,AlexKurtzman",
+        "Release Date (Theaters)": "May7,2009\u00a0wide",
+        "Release Date (Streaming)": "Nov17,2009",
+        "Box Office (Gross USA)": "$257.7M",
+        "Runtime": "2h6m",
+        "Distributor": "ParamountPictures",
+        "View the collection": "StarTrek"
+    },
+    {
+        "movie name": "The LEGO Movie",
+        "Rating": "PG(RudeHumor|MildAction)",
+        "Genre": [
+            "Kids&family",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "PhilLord,ChrisMiller",
+        "Producer": "DanLin,RoyLee",
+        "Writer": "PhilLord,ChrisMiller",
+        "Release Date (Theaters)": "Feb7,2014\u00a0wide",
+        "Release Date (Streaming)": "Jun17,2014",
+        "Box Office (Gross USA)": "$257.8M",
+        "Runtime": "1h35m",
+        "Distributor": "WarnerBros.Pictures"
+    },
+    {
+        "movie name": "Ant-Man and The Wasp",
+        "Rating": "PG-13(Sci-FiActionViolence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "PeytonReed",
+        "Producer": "KevinFeige,StephenBroussard",
+        "Writer": "ChrisMcKenna,ErikSommers,PaulRudd,AndrewBarrer,GabrielFerrari",
+        "Release Date (Theaters)": "Jul6,2018\u00a0wide",
+        "Release Date (Streaming)": "Dec8,2015",
+        "Box Office (Gross USA)": "$216.6M",
+        "Runtime": "1h58m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DTS,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Moana",
+        "Rating": "PG(Peril|BriefThematicElements|SomeScaryImages)",
+        "Genre": [
+            "Adventure",
+            "Kids&family",
+            "Comedy",
+            "Animation",
+            "Musical"
+        ],
+        "Original Language": "English",
+        "Director": "JohnMusker,RonClements",
+        "Producer": "OsnatShurer",
+        "Writer": "JaredBush",
+        "Release Date (Theaters)": "Nov23,2016\u00a0wide",
+        "Release Date (Streaming)": "Mar7,2017",
+        "Box Office (Gross USA)": "$248.8M",
+        "Runtime": "1h53m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos,DolbyDigital,SDDS,Datasat",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Isle of Dogs",
+        "Rating": "PG-13(ThematicElements|SomeViolentImages)",
+        "Genre": [
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "WesAnderson",
+        "Producer": "WesAnderson,ScottRudin,StevenRales,JeremyDawson",
+        "Writer": "WesAnderson",
+        "Release Date (Theaters)": "Apr6,2018\u00a0wide",
+        "Release Date (Streaming)": "Jul17,2018",
+        "Box Office (Gross USA)": "$31.9M",
+        "Runtime": "1h41m",
+        "Distributor": "FoxSearchlight",
+        "Sound Mix": "DolbyDigital",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Guardians of the Galaxy",
+        "Rating": "PG-13(SomeLanguage|IntenseSci-FiAction/Violence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-fi"
+        ],
+        "Original Language": "English",
+        "Director": "JamesGunn",
+        "Producer": "KevinFeige",
+        "Writer": "JamesGunn,NicolePerlman",
+        "Release Date (Theaters)": "Aug1,2014\u00a0wide",
+        "Release Date (Streaming)": "Dec9,2014",
+        "Box Office (Gross USA)": "$333.7M",
+        "Runtime": "2h1m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos,DolbyDigital",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Kubo and the Two Strings",
+        "Rating": "PG(ScaryImages|ActionandPeril|ThematicElements)",
+        "Genre": [
+            "Fantasy",
+            "Action",
+            "Adventure",
+            "Kids&family",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "TravisKnight",
+        "Producer": "ArianneSutner,TravisKnight",
+        "Writer": "MarcHaimes,ChrisButler",
+        "Release Date (Theaters)": "Aug19,2016\u00a0wide",
+        "Release Date (Streaming)": "Nov22,2016",
+        "Box Office (Gross USA)": "$48.0M",
+        "Runtime": "1h42m",
+        "Distributor": "FocusFeatures",
+        "Sound Mix": "DolbyDigital",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Wolfwalkers",
+        "Rating": "PG(ScaryImages|Peril|BriefLanguage|SequencesofViolence|SomeThematicElements)",
+        "Genre": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "TommMoore,RossStewart",
+        "Producer": "TommMoore,St\u00e9phanRoelants,NoraTwomey,PaulYoung",
+        "Writer": "WillCollins",
+        "Release Date (Theaters)": "Nov13,2020\u00a0limited",
+        "Release Date (Streaming)": "Dec11,2020",
+        "Runtime": "1h43m",
+        "Distributor": "GKIDS",
+        "Aspect Ratio": "Flat(1.85:1)"
+    },
+    {
+        "movie name": "Goldfinger",
+        "Rating": "PG",
+        "Genre": [
+            "Action"
+        ],
+        "Original Language": "English",
+        "Director": "GuyHamilton",
+        "Producer": "AlbertR.Broccoli,HarrySaltzman",
+        "Writer": "IanFleming,RichardMaibaum,PaulDehn",
+        "Release Date (Theaters)": "Dec25,1964\u00a0wide",
+        "Release Date (Streaming)": "Nov7,2006",
+        "Runtime": "1h52m",
+        "Distributor": "UnitedArtists",
+        "Sound Mix": "Mono",
+        "Aspect Ratio": "Flat(1.85:1)",
+        "View the collection": "JamesBond007"
+    },
+    {
+        "movie name": "Star Wars: Episode IV -- A New Hope",
+        "Rating": "PG",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "GeorgeLucas",
+        "Producer": "GaryKurtz",
+        "Writer": "GeorgeLucas",
+        "Release Date (Theaters)": "May25,1977\u00a0wide",
+        "Release Date (Streaming)": "Dec6,2005",
+        "Box Office (Gross USA)": "$345",
+        "Runtime": "2h1m",
+        "Sound Mix": "Surround",
+        "View the collection": "StarWarsSaga"
+    },
+    {
+        "movie name": "Stagecoach",
+        "Genre": [
+            "Western"
+        ],
+        "Original Language": "English",
+        "Director": "JohnFord",
+        "Producer": "JohnFord",
+        "Writer": "ErnestHaycox,DudleyNichols,BenHecht",
+        "Release Date (Theaters)": "Mar2,1939\u00a0wide",
+        "Release Date (Streaming)": "Sep3,2002",
+        "Runtime": "1h36m",
+        "Distributor": "UCLAFilmandTelevisionArchive[us],WarnerHomeV\u00eddeo,UnitedArtists",
+        "Aspect Ratio": "Flat(1.37:1)"
+    },
+    {
+        "movie name": "Marvel's the Avengers",
+        "Rating": "PG-13(IntenseSci-FiAction/Violence|AMildDrugReference)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "JossWhedon",
+        "Producer": "KevinFeige",
+        "Writer": "JossWhedon",
+        "Release Date (Theaters)": "May4,2012\u00a0wide",
+        "Release Date (Streaming)": "Sep25,2012",
+        "Runtime": "2h23m",
+        "Distributor": "WaltDisney",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "WALL-E",
+        "Rating": "G",
+        "Genre": [
+            "Adventure",
+            "Kids&family",
+            "Comedy",
+            "Animation",
+            "Sci-fi"
+        ],
+        "Original Language": "English",
+        "Director": "AndrewStanton",
+        "Producer": "JimMorris",
+        "Writer": "AndrewStanton,JimReardon",
+        "Release Date (Theaters)": "Jun27,2008\u00a0wide",
+        "Release Date (Streaming)": "Nov18,2008",
+        "Runtime": "1h37m",
+        "Distributor": "WaltDisney,PixarAnimationStudios",
+        "Sound Mix": "SDDS,DolbyDigital,DTS",
+        "View the collection": "Pixar"
+    },
+    {
+        "movie name": "Paths of Glory",
+        "Genre": [
+            "War",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "StanleyKubrick",
+        "Producer": "KirkDouglas,JamesB.Harris",
+        "Writer": "HumphreyCobb,StanleyKubrick,CalderWillingham,JimThompson",
+        "Release Date (Theaters)": "Oct25,1957\u00a0original",
+        "Release Date (Streaming)": "May1,2001",
+        "Runtime": "1h26m",
+        "Distributor": "UnitedArtists,CriterionCollection,MGM/UAHomeEntertainmentInc.",
+        "Sound Mix": "Mono,Stereo",
+        "Aspect Ratio": "Flat(1.37:1),35mm"
+    },
+    {
+        "movie name": "The French Connection",
+        "Rating": "R",
+        "Genre": [
+            "Crime",
+            "Mystery&thriller",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "WilliamFriedkin",
+        "Producer": "PhilipD'Antoni",
+        "Writer": "ErnestTidyman",
+        "Release Date (Theaters)": "Oct7,1971\u00a0original",
+        "Release Date (Streaming)": "Feb1,2005",
+        "Runtime": "1h44m",
+        "Distributor": "20thCenturyFox"
+    },
+    {
+        "movie name": "Iron Man",
+        "Rating": "PG-13(IntenseSci-FiAction/Violence|BriefSuggestiveContent)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "JonFavreau",
+        "Producer": "AviArad,KevinFeige",
+        "Writer": "MarkFergus,HawkOstby,ArtMarcum,MattHolloway",
+        "Release Date (Theaters)": "May2,2008\u00a0wide",
+        "Release Date (Streaming)": "Sep30,2008",
+        "Box Office (Gross USA)": "$318.3M",
+        "Runtime": "2h6m",
+        "Distributor": "ParamountPictures",
+        "Sound Mix": "DolbySRD,DTS,SDDS",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "The Terminator",
+        "Rating": "R",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Mystery&thriller"
+        ],
+        "Original Language": "English",
+        "Director": "JamesCameron",
+        "Producer": "GaleAnneHurd",
+        "Writer": "JamesCameron,GaleAnneHurd",
+        "Release Date (Theaters)": "Oct26,1984\u00a0original",
+        "Release Date (Streaming)": "Oct2,2001",
+        "Runtime": "1h48m",
+        "Distributor": "Metro-Goldwyn-MayerDistributingCorp.,MGM/UAHomeEntertainmentInc.,ArtisanEntertainment",
+        "View the collection": "Terminator"
+    },
+    {
+        "movie name": "Hunt for the Wilderpeople",
+        "Rating": "PG-13(ThematicElements|SomeLanguage|ViolentContent)",
+        "Genre": [
+            "Comedy",
+            "Adventure"
+        ],
+        "Original Language": "English(Australia)",
+        "Director": "TaikaWaititi",
+        "Producer": "CarthewNeal,LeanneSaunders,TaikaWaititi,MattNoonan",
+        "Writer": "TaikaWaititi",
+        "Release Date (Theaters)": "Jun24,2016\u00a0limited",
+        "Release Date (Streaming)": "Sep27,2016",
+        "Box Office (Gross USA)": "$5.2M",
+        "Runtime": "1h41m",
+        "Distributor": "TheOrchard"
+    },
+    {
+        "movie name": "Doctor Strange",
+        "Rating": "PG-13(Sci-FiViolenceandAction|AnIntenseCrashSequence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "ScottDerrickson",
+        "Producer": "KevinFeige",
+        "Writer": "JonSpaihts,ScottDerrickson,C.RobertCargill",
+        "Release Date (Theaters)": "Nov4,2016\u00a0wide",
+        "Release Date (Streaming)": "Feb28,2017",
+        "Box Office (Gross USA)": "$232.6M",
+        "Runtime": "1h55m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Raya and the Last Dragon",
+        "Rating": "PG(SomeViolence|Action|ThematicElements)",
+        "Genre": [
+            "Kids&family",
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "DonHall,CarlosL\u00f3pezEstrada",
+        "Producer": "OsnatShurer,PeterDelVecho",
+        "Writer": "AdeleLim,QuiNguyen",
+        "Release Date (Theaters)": "Mar5,2021\u00a0wide",
+        "Release Date (Streaming)": "Mar5,2021",
+        "Box Office (Gross USA)": "$54.7M",
+        "Runtime": "1h48m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "The Princess Bride",
+        "Rating": "PG",
+        "Genre": [
+            "Kids&family",
+            "Adventure",
+            "Comedy"
+        ],
+        "Original Language": "English",
+        "Director": "RobReiner",
+        "Producer": "RobReiner,AndrewScheinman",
+        "Writer": "WilliamGoldman",
+        "Release Date (Theaters)": "Oct1,1987\u00a0wide",
+        "Release Date (Streaming)": "Jul18,2000",
+        "Box Office (Gross USA)": "$26.9M",
+        "Runtime": "1h38m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "Surround,DolbyStereo",
+        "Aspect Ratio": "Flat(1.85:1)"
+    },
+    {
+        "movie name": "The Taking of Pelham One Two Three",
+        "Rating": "R",
+        "Genre": [
+            "Mystery&thriller",
+            "Action",
+            "Drama",
+            "Crime"
+        ],
+        "Original Language": "English",
+        "Director": "JosephSargent",
+        "Producer": "GabrielKatzka,EdgarJ.Scherick",
+        "Writer": "JohnGodey,PeterStone",
+        "Release Date (Theaters)": "Oct2,1974\u00a0limited",
+        "Release Date (Streaming)": "Feb29,2000",
+        "Runtime": "1h44m",
+        "Distributor": "UnitedArtists"
+    },
+    {
+        "movie name": "John Wick: Chapter 3 -- Parabellum",
+        "Rating": "R(SomeLanguage|PervasiveStrongViolence)",
+        "Genre": [
+            "Mystery&thriller",
+            "Action"
+        ],
+        "Original Language": "English",
+        "Director": "ChadStahelski",
+        "Producer": "BasilIwanyk,EricaLee",
+        "Writer": "DerekKolstad,ShayHatten,ChrisCollins,MarcAbrams",
+        "Release Date (Theaters)": "May17,2019\u00a0wide",
+        "Release Date (Streaming)": "Aug23,2019",
+        "Box Office (Gross USA)": "$171.0M",
+        "Runtime": "2h11m",
+        "Distributor": "LionsgateFilms,SummitEntertainment",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "The Peanut Butter Falcon",
+        "Rating": "PG-13(Smoking|LanguageThroughout|SomeViolence|ThematicContent)",
+        "Genre": [
+            "Comedy",
+            "Adventure",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "TylerNilson,MichaelSchwartz",
+        "Producer": "TimZajaros,ChristopherLemole,AlbertBerger,RonYerxa",
+        "Writer": "TylerNilson,MichaelSchwartz",
+        "Release Date (Theaters)": "Aug23,2019\u00a0wide",
+        "Release Date (Streaming)": "Aug27,2019",
+        "Box Office (Gross USA)": "$20.5M",
+        "Runtime": "1h36m",
+        "Distributor": "RoadsideAttractions",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Aliens",
+        "Rating": "R",
+        "Genre": [
+            "Horror",
+            "Sci-fi",
+            "Action"
+        ],
+        "Original Language": "English",
+        "Director": "JamesCameron",
+        "Producer": "GaleAnneHurd",
+        "Writer": "JamesCameron,DavidGiler",
+        "Release Date (Theaters)": "Jul18,1986\u00a0wide",
+        "Release Date (Streaming)": "Jun1,1999",
+        "Box Office (Gross USA)": "$77.6M",
+        "Runtime": "2h17m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "Surround,DolbyStereo,MagneticStereo6Track,Stereo",
+        "Aspect Ratio": "Flat(1.85:1)",
+        "View the collection": "Alien"
+    },
+    {
+        "movie name": "Star Wars: Episode V -- The Empire Strikes Back",
+        "Rating": "PG(Sci-FiActionViolence)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "IrvinKershner",
+        "Producer": "GaryKurtz",
+        "Writer": "GeorgeLucas,LawrenceKasdan,LeighBrackett",
+        "Release Date (Theaters)": "May21,1980\u00a0wide",
+        "Release Date (Streaming)": "Sep21,2004",
+        "Box Office (Gross USA)": "$291.9M",
+        "Runtime": "2h4m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "Surround,DolbyStereo,DolbyA,MagneticStereo6Track",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "StarWarsSaga"
+    },
+    {
+        "movie name": "X-Men: Days of Future Past",
+        "Rating": "PG-13(IntenseSci-FiViolence|IntenseSci-FiAction|Language|Nudity|SomeSuggestiveMaterial)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "BryanSinger",
+        "Producer": "LaurenShulerDonner,BryanSinger,SimonKinberg,HutchParker",
+        "Writer": "SimonKinberg",
+        "Release Date (Theaters)": "May23,2014\u00a0wide",
+        "Release Date (Streaming)": "Oct14,2014",
+        "Box Office (Gross USA)": "$233.9M",
+        "Runtime": "2h11m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "DolbyAtmos,Datasat",
+        "View the collection": "X-Men"
+    },
+    {
+        "movie name": "True Grit",
+        "Rating": "PG-13(Int.Seq.ofWesternViolence|DisturbingImages)",
+        "Genre": [
+            "Western",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "JoelCoen,EthanCoen",
+        "Producer": "ScottRudin,JoelCoen,EthanCoen",
+        "Writer": "JoelCoen,EthanCoen",
+        "Release Date (Theaters)": "Dec22,2010\u00a0wide",
+        "Release Date (Streaming)": "Jun7,2011",
+        "Box Office (Gross USA)": "$171.0M",
+        "Runtime": "1h50m",
+        "Distributor": "ParamountPictures",
+        "Sound Mix": "SDDS,DolbyDigital,DTS"
+    },
+    {
+        "movie name": "The Suicide Squad",
+        "Rating": "R(DrugUse|BriefGraphicNudity|LanguageThroughout|SomeSexualReferences|StrongViolenceandGore)",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Comedy"
+        ],
+        "Original Language": "English",
+        "Director": "JamesGunn",
+        "Producer": "PeterSafran,CharlesRoven",
+        "Writer": "JamesGunn",
+        "Release Date (Theaters)": "Aug6,2021\u00a0wide",
+        "Release Date (Streaming)": "Aug6,2021",
+        "Box Office (Gross USA)": "$55.8M",
+        "Runtime": "2h12m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "DolbyDigital,DolbyAtmos",
+        "View the collection": "DCExtendedUniverse"
+    },
+    {
+        "movie name": "All Is Lost",
+        "Rating": "PG-13(BriefStrongLanguage)",
+        "Genre": [
+            "Mystery&thriller",
+            "Adventure",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "J.C.Chandor",
+        "Producer": "NealDodson,AnnaGerb,JustinNappi,TeddySchwarzman",
+        "Writer": "J.C.Chandor",
+        "Release Date (Theaters)": "Oct18,2013\u00a0limited",
+        "Release Date (Streaming)": "Feb11,2014",
+        "Box Office (Gross USA)": "$6.3M",
+        "Runtime": "1h45m",
+        "Distributor": "RoadsideAttractions",
+        "Sound Mix": "DolbyDigital"
+    },
+    {
+        "movie name": "Looper",
+        "Rating": "R(Language|DrugContent|SomeSexuality/Nudity|StrongViolence)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Mystery&thriller"
+        ],
+        "Original Language": "English",
+        "Director": "RianJohnson",
+        "Producer": "RamBergman,JamesD.Stern",
+        "Writer": "RianJohnson",
+        "Release Date (Theaters)": "Sep28,2012\u00a0wide",
+        "Release Date (Streaming)": "Dec31,2012",
+        "Box Office (Gross USA)": "$66.3M",
+        "Runtime": "1h59m",
+        "Distributor": "SonyPicturesEntertainment",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Casino Royale",
+        "Rating": "PG-13(Nudity|ASceneofTorture|SequencesofViolentAction|SexualContent)",
+        "Genre": [
+            "Mystery&thriller",
+            "Action",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "MartinCampbell",
+        "Producer": "BarbaraBroccoli,MichaelG.Wilson",
+        "Writer": "NealPurvis,RobertWade,AnthonyWaye,IanFleming",
+        "Release Date (Theaters)": "Nov17,2006\u00a0wide",
+        "Release Date (Streaming)": "Mar13,2007",
+        "Box Office (Gross USA)": "$167.0M",
+        "Runtime": "2h24m",
+        "Distributor": "SonyPicturesEntertainment",
+        "Sound Mix": "DolbySRD,DTS,SDDS",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "JamesBond007"
+    },
+    {
+        "movie name": "The LEGO Batman Movie",
+        "Rating": "PG(RudeHumorandSomeAction)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Kids&family",
+            "Comedy",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "ChrisMcKay",
+        "Producer": "DanLin,PhilLord,ChrisMiller,RoyLee",
+        "Writer": "SethGrahame-Smith,ChrisMcKenna,ErikSommers,JaredStern,JohnWhittington",
+        "Release Date (Theaters)": "Feb10,2017\u00a0wide",
+        "Release Date (Streaming)": "Jun13,2017",
+        "Box Office (Gross USA)": "$175.7M",
+        "Runtime": "1h46m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "DolbyAtmos,DolbyDigital,SDDS,Datasat",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "Batman"
+    },
+    {
+        "movie name": "Guardians of the Galaxy Vol. 2",
+        "Rating": "PG-13(Language|BriefSuggestiveContent|SequencesofSci-FiAction|Violence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-fi"
+        ],
+        "Original Language": "English",
+        "Director": "JamesGunn",
+        "Producer": "KevinFeige",
+        "Writer": "JamesGunn",
+        "Release Date (Theaters)": "May5,2017\u00a0wide",
+        "Release Date (Streaming)": "Aug22,2017",
+        "Box Office (Gross USA)": "$389.8M",
+        "Runtime": "2h15m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Badlands",
+        "Rating": "PG",
+        "Genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "TerrenceMalick",
+        "Producer": "TerrenceMalick",
+        "Writer": "TerrenceMalick",
+        "Release Date (Theaters)": "Oct15,1973\u00a0original",
+        "Release Date (Streaming)": "Apr27,1999",
+        "Runtime": "1h35m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "Mono",
+        "Aspect Ratio": "35mm"
+    },
+    {
+        "movie name": "Chicken Run",
+        "Rating": "G",
+        "Genre": [
+            "Kids&family",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "PeterLord,NickPark",
+        "Producer": "PeterLord,NickPark,DavidSproxton",
+        "Writer": "KareyKirkpatrick",
+        "Release Date (Theaters)": "Jun21,2000\u00a0wide",
+        "Release Date (Streaming)": "May22,2006",
+        "Runtime": "1h25m",
+        "Distributor": "DreamWorksSKG",
+        "Sound Mix": "DolbyEX,SDDS,DTS,Surround",
+        "Aspect Ratio": "Flat(1.85:1)"
+    },
+    {
+        "movie name": "Stalker",
+        "Rating": "TV14",
+        "Genre": [
+            "Sci-fi",
+            "Adventure"
+        ],
+        "Original Language": "Russian",
+        "Director": "AndreiTarkovsky",
+        "Producer": "AleksandraDemidova",
+        "Writer": "ArkadiyStrugatskiy,BorisStrugatskiy,ArkadiyStrugatskiy,BorisStrugatskiy",
+        "Release Date (Theaters)": "Oct20,1982\u00a0original",
+        "Release Date (Streaming)": "Jun19,2001",
+        "Box Office (Gross USA)": "$258.4K",
+        "Runtime": "2h43m"
+    },
+    {
+        "movie name": "No Country for Old Men",
+        "Rating": "R(StrongGraphicViolence|SomeLanguage)",
+        "Genre": [
+            "Crime",
+            "Mystery&thriller",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "JoelCoen,EthanCoen",
+        "Producer": "JoelCoen,EthanCoen,ScottRudin",
+        "Writer": "JoelCoen,EthanCoen",
+        "Release Date (Theaters)": "Nov21,2007\u00a0wide",
+        "Release Date (Streaming)": "Mar11,2008",
+        "Box Office (Gross USA)": "$74.3M",
+        "Runtime": "2h2m",
+        "Distributor": "MiramaxFilms",
+        "Sound Mix": "DolbyDigital,DTS,SDDS",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Dawn of the Planet of the Apes",
+        "Rating": "PG-13(IntenseSci-FiAction/Violence|BriefStrongLanguage)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "MattReeves",
+        "Producer": "PeterChernin,DylanClark,RickJaffa,AmandaSilver",
+        "Writer": "RickJaffa,AmandaSilver,MarkBomback",
+        "Release Date (Theaters)": "Jul11,2014\u00a0wide",
+        "Release Date (Streaming)": "Dec2,2014",
+        "Box Office (Gross USA)": "$208.5M",
+        "Runtime": "2h10m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "DolbyAtmos",
+        "View the collection": "PlanetoftheApes"
+    },
+    {
+        "movie name": "Captain Marvel",
+        "Rating": "PG-13(BriefSuggestiveLanguage|Action|SequencesofSci-FiViolence)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "AnnaBoden,RyanFleck",
+        "Producer": "KevinFeige",
+        "Writer": "AnnaBoden,RyanFleck,GenevaRobertson-Dworet,JacSchaeffer",
+        "Release Date (Theaters)": "Mar8,2019\u00a0wide",
+        "Release Date (Streaming)": "May28,2019",
+        "Box Office (Gross USA)": "$426.8M",
+        "Runtime": "2h4m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DTS,DolbyAtmos,DolbyDigital",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "Sicario",
+        "Rating": "R(Language|GrislyImages|StrongViolence)",
+        "Genre": [
+            "Crime",
+            "Mystery&thriller",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "DenisVilleneuve",
+        "Producer": "BasilIwanyk,EdwardL.McDonnell,MollySmith,ThadLuckinbill,TrentLuckinbill",
+        "Writer": "TaylorSheridan",
+        "Release Date (Theaters)": "Oct2,2015\u00a0wide",
+        "Release Date (Streaming)": "Jan5,2016",
+        "Box Office (Gross USA)": "$46.9M",
+        "Runtime": "2h1m",
+        "Distributor": "LionsgateFilms",
+        "Sound Mix": "DolbyDigital"
+    },
+    {
+        "movie name": "Onward",
+        "Rating": "PG(SomeMildThematicElements|Action/Peril)",
+        "Genre": [
+            "Fantasy",
+            "Adventure",
+            "Kids&family",
+            "Comedy",
+            "Animation"
+        ],
+        "Original Language": "English",
+        "Director": "DanScanlon",
+        "Producer": "KoriRae",
+        "Writer": "DanScanlon,JasonHeadley,KeithBunin",
+        "Release Date (Theaters)": "Mar6,2020\u00a0wide",
+        "Release Date (Streaming)": "Mar6,2020",
+        "Box Office (Gross USA)": "$60.4M",
+        "Runtime": "1h43m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyAtmos,DTS",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "Pixar"
+    },
+    {
+        "movie name": "The African Queen",
+        "Rating": "PG(ThematicElements|SomeViolence|Smoking)",
+        "Genre": [
+            "Adventure"
+        ],
+        "Original Language": "English",
+        "Director": "JohnHuston",
+        "Producer": "S.P.Spiegel",
+        "Writer": "C.S.Forester,JamesAgee,JohnHuston,JohnCollier",
+        "Release Date (Theaters)": "Feb20,1952\u00a0wide",
+        "Release Date (Streaming)": "Mar23,2010",
+        "Runtime": "1h45m",
+        "Distributor": "UnitedArtists"
+    },
+    {
+        "movie name": "From Russia With Love",
+        "Rating": "PG",
+        "Genre": [
+            "Action"
+        ],
+        "Original Language": "English",
+        "Director": "TerenceYoung",
+        "Producer": "AlbertR.Broccoli,HarrySaltzman",
+        "Writer": "IanFleming,JohannaHarwood,RichardMaibaum",
+        "Release Date (Theaters)": "Apr8,1963\u00a0original",
+        "Release Date (Streaming)": "Apr4,2006",
+        "Runtime": "1h58m",
+        "Distributor": "CriterionCollection,WarnerHomeV\u00eddeo,CBS/Fox,UnitedArtists,MGMDistributingCorporation",
+        "View the collection": "JamesBond007"
+    },
+    {
+        "movie name": "Ran",
+        "Rating": "R",
+        "Genre": [
+            "History",
+            "Drama"
+        ],
+        "Original Language": "Japanese",
+        "Director": "AkiraKurosawa",
+        "Producer": "MasatoHara,SergeSilberman",
+        "Writer": "MasatoIde,AkiraKurosawa,HideoOguni,WilliamShakespeare",
+        "Release Date (Theaters)": "Jun1,1985\u00a0original",
+        "Release Date (Streaming)": "Nov22,2005",
+        "Box Office (Gross USA)": "$454.0K",
+        "Runtime": "2h40m",
+        "Distributor": "OrionPictures",
+        "Sound Mix": "MagneticStereo4Track,DolbyStereo,Surround",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "Jurassic Park",
+        "Rating": "PG-13(IntenseScienceFictionTerror)",
+        "Genre": [
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Mystery&thriller"
+        ],
+        "Original Language": "English",
+        "Director": "StevenSpielberg",
+        "Producer": "KathleenKennedy,GeraldR.Molen",
+        "Writer": "MichaelCrichton,MichaelCrichton,DavidKoepp,MaliaScotchMarmo",
+        "Release Date (Theaters)": "Jun11,1993\u00a0wide",
+        "Release Date (Streaming)": "Oct28,2003",
+        "Box Office (Gross USA)": "$401.8M",
+        "Runtime": "2h6m",
+        "Distributor": "UniversalPictures",
+        "Sound Mix": "DolbyStereo,DTS,DTS-ES,Surround,DolbyDigital,DolbySR",
+        "Aspect Ratio": "Flat(1.66:1)",
+        "View the collection": "JurassicPark"
+    },
+    {
+        "movie name": "A Fistful of Dollars",
+        "Rating": "R",
+        "Genre": [
+            "Western"
+        ],
+        "Original Language": "Italian",
+        "Director": "SergioLeone",
+        "Producer": "ArrigoColombo,GiorgioPapi",
+        "Writer": "AdrianoBolzoni",
+        "Release Date (Theaters)": "Jan18,1964\u00a0wide",
+        "Release Date (Streaming)": "Aug1,2006",
+        "Runtime": "1h36m",
+        "Distributor": "Unidis,MGM/UAHomeEntertainmentInc.,\u00cdzaroFilmsS.A.,TobisFilmkunst,Metro-Goldwyn-MayerDistributingCorp.,Metro-Goldwyn-Mayer,UnitedArtists",
+        "Sound Mix": "Mono"
+    },
+    {
+        "movie name": "Henry V",
+        "Rating": "PG-13(ABloodyBattle)",
+        "Genre": [
+            "History",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "KennethBranagh",
+        "Producer": "BruceSharman",
+        "Writer": "KennethBranagh",
+        "Release Date (Theaters)": "Nov8,1989\u00a0original",
+        "Release Date (Streaming)": "Jul18,2000",
+        "Box Office (Gross USA)": "$10.2M",
+        "Runtime": "2h17m",
+        "Distributor": "SamuelGoldwynCompany,MGM/UAHomeEntertainmentInc.",
+        "Sound Mix": "Surround"
+    },
+    {
+        "movie name": "Captain America: The Winter Soldier",
+        "Rating": "PG-13(Gunplay|ActionThroughout|IntenseSequencesofViolence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "AnthonyRusso,JoeRusso",
+        "Producer": "KevinFeige",
+        "Writer": "ChristopherMarkus,StephenMcFeely",
+        "Release Date (Theaters)": "Apr4,2014\u00a0wide",
+        "Release Date (Streaming)": "Sep9,2014",
+        "Box Office (Gross USA)": "$259.7M",
+        "Runtime": "2h15m",
+        "Distributor": "WaltDisney",
+        "Sound Mix": "DolbyDigital,Datasat,DolbyAtmos",
+        "View the collection": "MarvelCinematicUniverse"
+    },
+    {
+        "movie name": "The Lord of the Rings: The Two Towers",
+        "Rating": "PG-13(ScaryImages|EpicBattleSequences)",
+        "Genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "PeterJackson",
+        "Producer": "PeterJackson,BarrieM.Osborne,FranWalsh,EricMonette",
+        "Writer": "PeterJackson,PhilippaBoyens,FranWalsh,StephenSinclair,J.R.R.Tolkien",
+        "Release Date (Theaters)": "Dec18,2002\u00a0wide",
+        "Release Date (Streaming)": "Aug26,2003",
+        "Box Office (Gross USA)": "$342.6M",
+        "Runtime": "2h59m",
+        "Distributor": "NewLineCinema",
+        "Sound Mix": "DolbyEX,DolbySR,DolbyDigital,SDDS,DolbyStereo,DTS,Surround,DolbyA",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "LordofTheRings"
+    },
+    {
+        "movie name": "Ghostbusters",
+        "Rating": "PG",
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "IvanReitman",
+        "Producer": "IvanReitman",
+        "Writer": "DanAykroyd,HaroldRamis",
+        "Release Date (Theaters)": "Jun8,1984\u00a0wide",
+        "Release Date (Streaming)": "Aug2,2005",
+        "Box Office (Gross USA)": "$298.5M",
+        "Runtime": "1h47m",
+        "Distributor": "ColumbiaPictures",
+        "Sound Mix": "MagneticStereo6Track,DolbyStereo,Surround",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "Ghostbusters"
+    },
+    {
+        "movie name": "Rio Bravo",
+        "Genre": [
+            "Western"
+        ],
+        "Original Language": "English",
+        "Director": "HowardHawks",
+        "Producer": "HowardHawks",
+        "Writer": "B.H.McCampbell,JulesFurthman,LeighBrackett",
+        "Release Date (Theaters)": "Mar18,1959\u00a0original",
+        "Release Date (Streaming)": "May22,2007",
+        "Runtime": "2h21m",
+        "Distributor": "WarnerBros.,WarnerHomeV\u00eddeo",
+        "Sound Mix": "Mono",
+        "Aspect Ratio": "35mm,Flat(1.85:1)"
+    },
+    {
+        "movie name": "The Seventh Seal",
+        "Genre": [
+            "Fantasy",
+            "Drama"
+        ],
+        "Original Language": "Swedish",
+        "Director": "IngmarBergman",
+        "Producer": "AllanEkelund",
+        "Writer": "IngmarBergman",
+        "Release Date (Theaters)": "Oct13,1956\u00a0original",
+        "Release Date (Streaming)": "Dec4,2007",
+        "Runtime": "1h36m",
+        "Distributor": "CriterionCollection,EmbassyPictures,JanusFilms",
+        "Sound Mix": "Mono"
+    },
+    {
+        "movie name": "The Lion King",
+        "Rating": "G",
+        "Genre": [
+            "Kids&family",
+            "Animation",
+            "Adventure",
+            "Musical"
+        ],
+        "Original Language": "English",
+        "Director": "RogerAllers,RobMinkoff",
+        "Producer": "DonHahn",
+        "Writer": "IreneMecchi,JonathanRoberts,LindaWoolverton",
+        "Release Date (Theaters)": "Jun24,1994\u00a0wide",
+        "Release Date (Streaming)": "Oct4,2011",
+        "Box Office (Gross USA)": "$422.8M",
+        "Runtime": "1h27m",
+        "Distributor": "WaltDisneyPictures",
+        "Sound Mix": "DolbySR,DTS,DolbyStereo,SDDS,DTS-ES,DolbyA,Surround,DolbyDigital",
+        "Aspect Ratio": "Flat(1.85:1)"
+    },
+    {
+        "movie name": "Deadpool 2",
+        "Rating": "R(LanguageThroughout|BriefDrugMaterial|SexualReferences|StrongViolence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "DavidLeitch",
+        "Producer": "RyanReynolds,SimonKinberg,LaurenShulerDonner",
+        "Writer": "RyanReynolds,RhettReese,PaulWernick",
+        "Release Date (Theaters)": "May18,2018\u00a0wide",
+        "Release Date (Streaming)": "Aug21,2018",
+        "Box Office (Gross USA)": "$324.3M",
+        "Runtime": "2h0m",
+        "Distributor": "20thCenturyFox",
+        "Sound Mix": "DolbyDigital,DolbyAtmos",
+        "Aspect Ratio": "Scope(2.35:1)",
+        "View the collection": "X-Men"
+    },
+    {
+        "movie name": "Back to the Future",
+        "Rating": "PG",
+        "Genre": [
+            "Sci-fi",
+            "Comedy",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Original Language": "English",
+        "Director": "RobertZemeckis",
+        "Producer": "BobGale,NeilCanton",
+        "Writer": "RobertZemeckis,BobGale",
+        "Release Date (Theaters)": "Jul3,1985\u00a0original",
+        "Release Date (Streaming)": "Aug17,2010",
+        "Box Office (Gross USA)": "$247.0K",
+        "Runtime": "1h56m",
+        "Distributor": "UniversalPictures",
+        "Sound Mix": "Surround"
+    },
+    {
+        "movie name": "The Fugitive",
+        "Rating": "PG-13",
+        "Genre": [
+            "Crime",
+            "Mystery&thriller",
+            "Action",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "AndrewDavis",
+        "Producer": "ArnoldKopelson",
+        "Writer": "JebStuart,DavidTwohy",
+        "Release Date (Theaters)": "Aug6,1993\u00a0wide",
+        "Release Date (Streaming)": "Mar25,1997",
+        "Box Office (Gross USA)": "$183.8M",
+        "Runtime": "2h7m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "Surround"
+    },
+    {
+        "movie name": "Crouching Tiger, Hidden Dragon",
+        "Rating": "PG-13(SomeSexuality|MartialArtsViolence)",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sports&fitness"
+        ],
+        "Original Language": "Chinese",
+        "Director": "AngLee",
+        "Producer": "Li-KongHsu,WilliamKong,AngLee",
+        "Writer": "WangDu-lu,Hui-LingWang,JamesSchamus,KuoJungTsai",
+        "Release Date (Theaters)": "Dec22,2000\u00a0wide",
+        "Release Date (Streaming)": "Jun5,2001",
+        "Box Office (Gross USA)": "$128.1M",
+        "Runtime": "2h0m",
+        "Distributor": "ColumbiaTristar,SonyPicturesClassics",
+        "Sound Mix": "DolbySR,DolbyDigital,Surround",
+        "Aspect Ratio": "Scope(2.35:1)"
+    },
+    {
+        "movie name": "The Searchers",
+        "Genre": [
+            "Western"
+        ],
+        "Original Language": "English",
+        "Director": "JohnFord",
+        "Producer": "C.V.Whitney",
+        "Writer": "AlanLeMay,FrankS.Nugent",
+        "Release Date (Theaters)": "Mar13,1956\u00a0original",
+        "Release Date (Streaming)": "Jun6,2006",
+        "Runtime": "1h59m",
+        "Distributor": "WarnerHomeV\u00eddeo,WarnerBros."
+    },
+    {
+        "movie name": "Bullitt",
+        "Rating": "PG",
+        "Genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Original Language": "English",
+        "Director": "PeterYates",
+        "Producer": "PhilipD'Antoni",
+        "Writer": "RobertL.Pike,AlanR.Trustman,HarryKleiner",
+        "Release Date (Theaters)": "Oct17,1968\u00a0wide",
+        "Release Date (Streaming)": "Sep15,1998",
+        "Runtime": "1h53m",
+        "Distributor": "WarnerBros.Pictures",
+        "Sound Mix": "Stereo",
+        "Aspect Ratio": "Flat(1.85:1)"
+    }
+]
